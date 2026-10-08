@@ -22,7 +22,7 @@ class handler(BaseHTTPRequestHandler):
         if canale == "canale1":
             # Qui in futuro metteremo la logica di estrazione vera e propria
             # Per ora usiamo un flusso di test (Big Buck Bunny)
-            stream_url = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+            stream_url = "https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76ce19f/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTlmOjE3OTE0Nzk5OTE0MTE6Y2RubGl2ZXR2LnR2OjVkODViYWUyNTBhZjRkOWMuNjIyZTU0OTQ1MmQ5ZDRiOWU3ODhiZGZhNTQxNGE0ZGVhYzdiYTdkOTdmYWUyYWUzOGYzOTc4NWNmOGIyZWE3YQ"
             
         elif canale == "canale2":
             # Altro flusso di test
