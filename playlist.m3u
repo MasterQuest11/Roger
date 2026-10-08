@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Canale 1", Canale 1
-/api/play?ch=canale1
-#EXTINF:-1 tvg-name="Canale 2", Canale 2
-/api/play?ch=canale2
